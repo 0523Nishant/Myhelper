@@ -32,7 +32,11 @@ The **Admin Panel** is a web-based dashboard that enables MyHelper staff to mana
    - Manage payouts, refunds, and commission reports
 
 ---
+## Flow 
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d933fac3-d04e-4cb6-a928-65f761334439" />
+
+---
 ## 4. **Modules & Features**
 
 ### 4.1 Authentication
